@@ -6,7 +6,7 @@ This fun tool tracks your mouse movement on site and moves the eyes to follow yo
 
 This is a learning exercise adapted from a starter by John Williams.
 
-<img src= "oneeye.png" width='100%'/>
+<img src= "oneeye.png" width='50%'/>
 
 ## How to Run
 
