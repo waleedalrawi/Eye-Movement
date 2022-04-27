@@ -10,7 +10,9 @@ This is a learning exercise adapted from a starter by John Williams.
 
 ## How to Run
 
-Download the repository, then drag and drop the index.html file into your favorite browser :)
+Try it out live <a href="https://waleedalrawi.github.io/Eye-Movement/">here!</a>
+
+To run locally, download the repository, then drag and drop the index.html file into your favorite browser :)
 
 ## Roadmap of Future Improvements
 
